@@ -36,6 +36,17 @@ Simplicity also means less hurdles and still a need to care about when things be
 
 I hope to gradually grow it with more traits on the BaseModel first and foremost.
 
+Booting Eloquent
+----------------
+
+Before you can use it, you need to initialize Eloquent ORM:
+
+```
+\CedricZiel\Eloquent\Utility\EloquentUtility::bootEloquent();
+```
+
+You may want to do this in an initialization Method such as `initializeIndexAction` to avoid overhead when you dont need it.
+
 Usage
 -----
 

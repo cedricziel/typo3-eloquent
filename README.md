@@ -8,6 +8,17 @@ Go faster, I hate READMEs!
 
 Cool story Bro. Read it or go away.
 
+Installation
+------------
+
+Clone and composer install:
+
+```
+git clone https://github.com/cedricziel/typo3-eloquent.git typo3conf/ext/eloquent
+cd typo3conf/ext/eloquent
+composer install
+```
+
 Motivation
 ----------
 

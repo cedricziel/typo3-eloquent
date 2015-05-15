@@ -26,7 +26,7 @@ Why did I create this?
 
 I think the main motivation is a intrinsic motivation to make things easier. Easier for both experienced, as well as entry level developers. The persistence Layer in Extbase is a major performance buster. While controllers are cheap, the whole DataMapper pattern eats precious ms of your response time. - And what for? Domain Driven Design, they say.
 
-Fact is that only a small percentage of all TYPO3 CMS developers really care about Domain Driven Design - especially when it comes to content elements. I dont think you should need to boot up a frameworks persistence layer and create precious mapped Domain objects just for getting a row from your database.
+Fact is that only a small percentage of all TYPO3 CMS developers really care about Domain Driven Design - especially when it comes to content elements. I dont think you should need to boot up the frameworks' persistence layer and create precious mapped Domain objects just for getting a row from your database.
 
 
 Perspective

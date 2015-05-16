@@ -3,6 +3,11 @@ Eloquent ORM for TYPO3 CMS
 
 Because sometimes all you need is a query.
 
+Go faster, I hate READMEs!
+---------------------------
+
+Cool story Bro. Read it or go away.
+
 Installation
 ------------
 

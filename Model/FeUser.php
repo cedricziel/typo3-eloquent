@@ -9,7 +9,7 @@ namespace CedricZiel\Eloquent\Model;
  *
  * @package CedricZiel\Eloquent\Model
  */
-class User extends BaseModel {
+class FeUser extends BaseModel {
 
 	/**
 	 * The table this class queries
